@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+h4{
+    margin-top:50px;
+}
+.traineeList{
+  list-style-type: none;
+
+}
+.traineeList li{
+border: 1px solid #ddd;
+width:150px;
+padding: 5px 10px;
+cursor:pointer;
+}

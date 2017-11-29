@@ -1,0 +1,26 @@
+{
+	"users": {
+		"list": [{
+				"name": "Yogish",
+				"job": "UI Developer"
+			},
+			{
+				"name": "Madhu",
+				"job": "UI Developer"
+			},
+			{
+				"name": "Harish",
+				"job": "UI Developer"
+			},
+			{
+				"name": "Teja",
+				"job": "UI Developer"
+			},
+			{
+				"name": "Aman",
+				"job": "UI Developer"
+			}
+		]
+
+	}
+}
